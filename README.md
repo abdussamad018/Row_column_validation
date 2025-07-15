@@ -102,6 +102,8 @@ Task -1/
 ## Demo Screenshot
 ![Demo Screenshot](./screencapture-1.png)
 ![Demo Screenshot](./Screenshot_2.png)
+## Download Error Screenshot
+![Demo Screenshot](./Screenshot_3.png)
 
 ---
 
